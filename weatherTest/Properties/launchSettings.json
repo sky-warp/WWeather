@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "weatherTest": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "API_KEY": "Your API key here"
+      }
+    }
+  }
+}
